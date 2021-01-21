@@ -5,7 +5,7 @@
 This app is to help save the users time and energy with a virtual organizer and visualizer for your existing clothing. After entering your clothes into your personal database you're then able to mix and match your clothes through a carousel of your clothing or get a recommendation outfit from the app based off your personal style.
 ### Contributors
 uni + corn
-* Esther Young, Kelsey Cheng, Carolina Sliva, Nicholas Wong
+* Esther Young, Kelsey Cheng, Carolina Silva, Nicholas Wong
 ### Tools Used
 * list
 * all
