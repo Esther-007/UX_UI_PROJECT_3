@@ -1,0 +1,179 @@
+header {
+    background-color: white;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    width: 1500px;
+    max-width: 100%;
+    margin: auto;
+}
+li {
+    font-size: 16px;
+    padding: 4px;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+}
+ul {
+    margin: auto;
+}
+a {
+    color: #9e785a;
+    text-decoration: none;
+}
+.navigation {
+    width: 500px;
+    padding: 1%;
+    text-align: right;
+}
+.logo {
+    width: 200px;
+    padding: 1%;
+    text-align: center;
+}
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+    margin: auto;
+}
+
+section h2 {
+    font-size: 36px;
+}
+section h3 {
+    font-size: 20px;
+    color: #9e785a;
+}
+
+.myWorkSection {
+    grid-area: body;
+    margin: auto;
+    margin-top: 80px;
+    width: 1000px;
+    max-width: 100%;
+}
+.myWorkCard {
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    grid-template-areas: 
+        'pic desc';
+    justify-items: center;
+    align-items: center;
+    margin-top: 60px;
+}
+.myWorkCardReverse {
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    grid-template-areas: 
+        'desc pic';
+    justify-items: center;
+    align-items: center;
+}
+.myWorkDesc {
+    grid-area: desc;
+    text-align: left;
+    font-family: 'Jost', sans-serif;
+}
+.myWorkCardReverse .myWorkDesc {
+    padding-right: 60px;
+}
+
+.myWorkCard .myWorkDesc {
+    text-align: right;
+    padding-left: 60px;
+}
+
+.myWorkPic {
+    grid-area: pic;
+    width: 100%;
+    height: auto;
+}
+
+.aboutUs {
+    width: 1000px;
+    height: 300px;
+    max-width: 100%;
+    margin: auto;
+    margin-top: 80px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #9e785a;
+    font-family: 'Jost', sans-serif;
+}
+
+.aboutUs h3 {
+    width: 700px;
+    height: 120px;
+    margin: auto;
+}
+
+.aboutUs h2 {
+    margin: auto;
+}
+
+.download {
+    width: 1000px;
+    height: 200px;
+    max-width: 100%;
+    margin: auto;
+    margin-top: 80px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #9e785a;
+    font-family: 'Jost', sans-serif;
+}
+
+.downloadImage {
+    width: 500px;
+}
+
+@media only all and (max-width: 600px) {
+    .logo {
+        width: 100px;
+        padding: 1%;
+        text-align: center;
+    }
+
+    .mySkillSection {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        height: auto;
+        width: 100%;
+    }
+    .mySkillCard {
+        margin-top: 80px;
+        margin-bottom: 48px;
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .myWorkCard {
+        display: grid;
+        grid-template-rows: 1fr 1fr;
+        grid-template-columns: none;
+        grid-template-areas: 
+            'pic'
+            'desc';
+        justify-items: center;
+        align-items: center;
+    }
+    .myWorkCardReverse {
+        display: grid;
+        grid-template-rows: 1fr 1fr;
+        grid-template-columns: none;
+        grid-template-areas: 
+            'pic'
+            'desc';
+        justify-items: center;
+        align-items: center;
+    }
+}
