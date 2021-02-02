@@ -13,6 +13,6 @@ InVision
 Paper and Pen
 GitHub
 ### Project Links
-- [Google Slides](https://www.figma.com/proto/f9SyYbkcFrrUJW07XXDjlw/Unicorn?node-id=37%3A0&viewport=-200%2C868%2C0.5&scaling=scale-down)
+- [Google Slides](https://docs.google.com/presentation/d/13dOufX-F__o8Uo1gOR5_6sgmQje1nwIgsTs06dHcKAE/edit?usp=sharing)
 - [Figma Prototypes](https://www.figma.com/proto/f9SyYbkcFrrUJW07XXDjlw/Unicorn?node-id=37%3A0&viewport=-200%2C868%2C0.5&scaling=scale-down)
 - [Live Web Page](https://Esther-007.github.io/UX_UI_PROJECT_3/)
