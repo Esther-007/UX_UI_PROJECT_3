@@ -6,10 +6,13 @@ This app is to help save the users time and energy with a virtual organizer and 
 uni + corn
 * Esther Young, Kelsey Cheng, Carolina Silva, Nicholas Wong
 ### Tools Used
-* list
-* all
-* tools
+Figma
+Miro
+Google Suite
+InVision
+Paper and Pen
+GitHub
 ### Project Links
-- [Google Slides](url-link-here)
-- [Figma Prototypes](url-link-here)
+- [Google Slides](https://www.figma.com/proto/f9SyYbkcFrrUJW07XXDjlw/Unicorn?node-id=37%3A0&viewport=-200%2C868%2C0.5&scaling=scale-down)
+- [Figma Prototypes](https://www.figma.com/proto/f9SyYbkcFrrUJW07XXDjlw/Unicorn?node-id=37%3A0&viewport=-200%2C868%2C0.5&scaling=scale-down)
 - [Live Web Page](https://Esther-007.github.io/UX_UI_PROJECT_3/)
